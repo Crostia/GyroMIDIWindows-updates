@@ -1,9 +1,9 @@
 {
-  "versionCode": v1.0.0,
-  "versionName": "GyroMIDIWindows V1.0.0",
-  "downloadUrl": "https://github.com/Crostia/GyroMIDIWindows/releases/tag/v1.0.0",
-  "apkUrl": "https://github.com/Crostia/GyroMIDIWindows/releases/download/v1.0.0/GyroMIDIWindowsInstaller.exe",
-  "releaseNotes": "# GyroMIDI 版本发布说明\r\n\r\n## v1.0.0 (2025-02-12)\r\n\r\n### 🎉 首次发布\r\n\r\nGyroMIDI 是一个基于陀螺仪的 MIDI 控制器，将您的移动设备变成专业的音乐控制器。\r\n\r\n### ✨ 主要功能\r\n\r\n- **陀螺仪控制** - 实时捕捉设备姿态，转换为 MIDI 信号\r\n- **多轴映射** - 支持俯仰(Pitch)、横滚(Roll)、偏航(Yaw)三轴独立控制\r\n- **OSC 通信** - 通过 Open Sound Control 协议实现低延迟数据传输\r\n- **MIDI 输出** - 直接输出标准 MIDI 信号，兼容所有 DAW 软件\r\n- **自定义映射** - 灵活配置每个轴的 MIDI CC 通道和范围\r\n- **实时预览** - 可视化显示当前姿态和输出值\r\n\r\n### 🛡️ 安全特性\r\n\r\n- **代码混淆** - 使用 Obfuscar 进行代码保护\r\n  - 字符串加密\r\n  - 名称混淆\r\n  - 控制流混淆\r\n\r\n### 📦 安装包\r\n\r\n- **文件名**: `GyroMIDIWindowsInstaller.exe`\r\n- **平台**: Windows 10/11 (x64)\r\n- **运行时**: .NET 8.0 (独立部署，无需安装运行时)\r\n- **大小**: ~50MB\r\n\r\n### 🔧 系统要求\r\n\r\n- Windows 10 版本 1809 或更高版本\r\n- Windows 11\r\n- 64位处理器\r\n- 支持 WiFi 网络连接（用于接收手机数据）\r\n\r\n### 📝 已知问题\r\n\r\n- 首次启动可能需要几秒钟初始化\r\n- 部分杀毒软件可能误报，请添加信任\r\n\r\n### 🙏 致谢\r\n\r\n感谢使用 GyroMIDI！",
+  "versionCode": v1.1.0,
+  "versionName": "GyroMIDIWindows V1.1.0",
+  "downloadUrl": "https://github.com/Crostia/GyroMIDIWindows/releases/tag/v1.1.0",
+  "apkUrl": "https://github.com/Crostia/GyroMIDIWindows/releases/download/v1.1.0/GyroMIDIWindowsInstaller.exe",
+  "releaseNotes": "# GyroMIDI 版本发布说明\r\n\r\n## v1.1.0 (2026-02-12)\r\n\r\n### ✨ 更新内容\r\n\r\n- **开发者信息更新** - 更新开发者信息为 Crostia\r\n- **安装程序优化** - 改进安装包配置，移除不必要的 JSON 文件引用\r\n- **版本信息更新** - 版本号更新为 1.1.0\r\n\r\n### 📦 安装包\r\n\r\n- **文件名**: `GyroMIDIWindowsInstaller.exe`\r\n- **平台**: Windows 7/10/11 (x64)\r\n- **运行时**: .NET 8.0 (独立部署，无需安装运行时)\r\n- **大小**: ~50MB\r\n\r\n### 🔧 系统要求\r\n\r\n- Windows 7 或更高版本\r\n- Windows 10/11\r\n- 64位处理器\r\n- 支持 WiFi 网络连接（用于接收手机数据）\r\n\r\n---\r\n\r\n## v1.0.0 (2025-02-12)\r\n\r\n### 🎉 首次发布\r\n\r\nGyroMIDI 是一个基于陀螺仪的 MIDI 控制器，将您的移动设备变成专业的音乐控制器。\r\n\r\n### ✨ 主要功能\r\n\r\n- **陀螺仪控制** - 实时捕捉设备姿态，转换为 MIDI 信号\r\n- **多轴映射** - 支持俯仰(Pitch)、横滚(Roll)、偏航(Yaw)三轴独立控制\r\n- **OSC 通信** - 通过 Open Sound Control 协议实现低延迟数据传输\r\n- **MIDI 输出** - 直接输出标准 MIDI 信号，兼容所有 DAW 软件\r\n- **自定义映射** - 灵活配置每个轴的 MIDI CC 通道和范围\r\n- **实时预览** - 可视化显示当前姿态和输出值\r\n\r\n### 🛡️ 安全特性\r\n\r\n- **代码混淆** - 使用 Obfuscar 进行代码保护\r\n  - 字符串加密\r\n  - 名称混淆\r\n  - 控制流混淆\r\n\r\n### 📦 安装包\r\n\r\n- **文件名**: `GyroMIDIWindowsInstaller.exe`\r\n- **平台**: Windows 10/11 (x64)\r\n- **运行时**: .NET 8.0 (独立部署，无需安装运行时)\r\n- **大小**: ~50MB\r\n\r\n### 🔧 系统要求\r\n\r\n- Windows 10 版本 1809 或更高版本\r\n- Windows 11\r\n- 64位处理器\r\n- 支持 WiFi 网络连接（用于接收手机数据）\r\n\r\n### 📝 已知问题\r\n\r\n- 首次启动可能需要几秒钟初始化\r\n- 部分杀毒软件可能误报，请添加信任\r\n\r\n### 🙏 致谢\r\n\r\n感谢使用 GyroMIDI！如有问题请访问 GitHub 仓库提交 Issue。\r\n\r\n---\r\n\r\n**下载地址**: [GitHub Releases](https://github.com/Crostia/GyroMIDIWindows/releases)\r\n\r\n**项目主页**: https://github.com/Crostia/GyroMIDIWindows\r\n",
   "forceUpdate": false,
-  "publishedAt": "2026-02-11T19:13:46Z"
+  "publishedAt": "2026-02-11T23:29:59Z"
 }
